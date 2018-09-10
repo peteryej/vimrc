@@ -1,4 +1,4 @@
-# vimrc
+# vimrc setup for autoformatting code
 
 1. `cd ~; git clone git@github.com:peteryej/vimrc.git`
 2. `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
