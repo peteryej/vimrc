@@ -52,7 +52,7 @@ filetype plugin indent on    " required
 call glaive#Install()
 " Optional: Enable codefmt's default mappings on the <Leader>= prefix.
 Glaive codefmt plugin[mappings]
-Glaive codefmt google_java_executable="java -jar /Users/clouduser/vimrc/google-java-format-1.6-all-deps.jar"
+Glaive codefmt google_java_executable="java -jar /home/clouduser/vimrc/google-java-format-1.6-all-deps.jar"
 
 "
 " Brief help
